@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: 'Destaque';
-  src: url('/fontes/BebasNeue-Regular.otf') format(Opentype);
+  src: url('/fontes/BebasNeue-Regular.otf') format('Opentype');
   font-weight: normal;
 }
 
